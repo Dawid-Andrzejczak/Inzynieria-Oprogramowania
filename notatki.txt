@@ -1,4 +1,3 @@
 Linia testowa
 to jest develop
-feature branch tutaj
-zmiana w master
+zmiana master + develop
